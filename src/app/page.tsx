@@ -1,3 +1,5 @@
+export const config = { runtime: "experimental-edge" };
+
 export const metadata = {
   title: 'My Page Title',
 };
